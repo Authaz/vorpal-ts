@@ -43,7 +43,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/lodash": "^4.17.23",
-    "@types/ramda": "^0.31.1",
+    "@types/ramda": "^0.32.0",
     "@vitest/coverage-v8": "^4.0.18",
     "lodash": "^4.17.23",
     "ramda": "^0.32.0",
